@@ -1,2 +1,2 @@
 # ui-testing
-Here I test user interface
+Here I test user interface (UI) of Soundcloud
