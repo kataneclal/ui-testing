@@ -1,2 +1,2 @@
 # ui-testing
-Here I test user interface (UI) of Soundcloud
+Testing UI of a [sample website](https://parabank.parasoft.com/parabank/index.htm)
